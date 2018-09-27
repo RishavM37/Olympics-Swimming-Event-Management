@@ -1,0 +1,12 @@
+D:\Programming 2 - COMP123\Library\Library\bin\Debug\Library.dll
+D:\Programming 2 - COMP123\Library\Library\bin\Debug\Library.pdb
+D:\Programming 2 - COMP123\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+D:\Programming 2 - COMP123\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Programming 2 - COMP123\Library\Library\obj\Debug\Library.dll
+D:\Programming 2 - COMP123\Library\Library\obj\Debug\Library.pdb
+D:\COMP123 - Programming\Library\Library\bin\Debug\Library.dll
+D:\COMP123 - Programming\Library\Library\bin\Debug\Library.pdb
+D:\COMP123 - Programming\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\COMP123 - Programming\Library\Library\obj\Debug\Library.dll
+D:\COMP123 - Programming\Library\Library\obj\Debug\Library.pdb
+D:\COMP123 - Programming\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
